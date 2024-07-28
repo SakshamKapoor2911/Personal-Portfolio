@@ -4756,3 +4756,16 @@ td:last-child {
 	margin-right: 10px;
 	margin-left: 10px;
 }
+
+.s-header__nav{
+	display: flex;
+	justify-content: center;
+}
+
+#featured{
+	border: 0.01px solid black;
+}
+
+#profile{
+	border: 1px solid hsla(35, 87%, 49%, 1);
+}
